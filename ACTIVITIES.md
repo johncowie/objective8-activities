@@ -1,4 +1,9 @@
-## Create Objective
+# Objective8 Activity Stream
+
+Document for defining Activities generated from [Objective8](https://objective8.dcentproject.eu)
+
+---
+### Create Objective
 
 ```
 {
@@ -17,3 +22,6 @@
   }
 }
 ```
+
+---
+

@@ -24,4 +24,15 @@ Document for defining Activities generated from [Objective8](https://objective8.
 ```
 
 ---
+### Question about Objective
+
+todo..
+
+---
+### Comment about Objective
+
+todo..
+
+---
+
 

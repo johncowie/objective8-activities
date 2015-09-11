@@ -38,7 +38,10 @@ Document for defining Activities generated from [Objective8](https://objective8.
   "object": {
     "@type": "Objective Question"
     "displayName": "Can't you play table football instead?",
-    "url": "https://objective8.dcentproject.eu/objectives/21/questions/1"
+    "url": "https://objective8.dcentproject.eu/objectives/21/questions/1",
+    "object": {
+      "@type": "Objective",
+      "displayName": "Ping-pong table should always be available"
   }
  }
 ```
